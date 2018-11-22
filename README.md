@@ -1,4 +1,4 @@
-# my-project
+# Quick start
 
 ## Project setup
 ```
