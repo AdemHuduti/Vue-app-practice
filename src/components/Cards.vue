@@ -20,7 +20,6 @@
             <button class="btn btn-outline-dark cards-button">More</button>
           </div>
         </div>
-        <!-- <p class="top">Top Company!</p> probaj ovo skontati pomoci v-if -->
       </div>
     </div>
   </div>
