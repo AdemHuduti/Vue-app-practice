@@ -1,6 +1,6 @@
 # Quick start
 
-## Project setup
+## Quick project setup
 ```
 yarn install
 ```
